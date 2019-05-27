@@ -1810,7 +1810,10 @@ body {
 .cid-rrCSQ26dBM {
   padding-top: 90px;
   padding-bottom: 90px;
-  background-color: #ffffff;
+  background-image: url("../../../assets/images/img-73-2000x1500.jpg");
+}
+.cid-rrCSQ26dBM .card-box {
+  padding: 1rem 2rem 2rem;
 }
 .cid-rrCSQ26dBM h4 {
   font-weight: 500;
@@ -1844,7 +1847,7 @@ body {
   color: #000eb0;
 }
 .cid-rrCSQ26dBM .card-title {
-  color: #000eb0;
+  color: #ff0000;
 }
 .cid-rrC9WbnVv1 {
   padding-top: 60px;
