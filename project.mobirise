@@ -13,8 +13,8 @@
         "warningColor": "#879A9F",
         "dangerColor": "#B1A374",
         "mainFont": "Rubik",
-        "display1Font": "PT Serif",
-        "display1Size": 4.25,
+        "display1Font": "Athelas-Bold",
+        "display1Size": "4.4",
         "display2Font": "Rubik",
         "display2Size": 3,
         "display5Font": "Rubik",
@@ -38,6 +38,24 @@
         "css": "'PT Serif', serif",
         "name": "PT Serif",
         "url": "https://fonts.googleapis.com/css?family=PT+Serif:400,400i,700,700i"
+      },
+      {
+        "css": "'Athelas-Regular'",
+        "name": "Athelas-Regular",
+        "url": null,
+        "file": "@PROJECT_PATH@/fonts/Athelas-Regular/font.ttf"
+      },
+      {
+        "css": "'Athelas-Bold'",
+        "name": "Athelas-Bold",
+        "url": null,
+        "file": "@PROJECT_PATH@/fonts/Athelas-Bold/font.ttf"
+      },
+      {
+        "css": "'Athelas-BoldItalic'",
+        "name": "Athelas-BoldItalic",
+        "url": null,
+        "file": "@PROJECT_PATH@/fonts/Athelas-BoldItalic/font.ttf"
       }
     ],
     "versionFirst": "4.7.6",
@@ -473,11 +491,11 @@
               "background-color": "@bg-value"
             },
             "H1": {
-              "color": "#ff0000",
+              "color": "#000eb0",
               "text-align": "center"
             },
             ".mbr-text, .mbr-section-btn": {
-              "color": "#000eb0",
+              "color": "#ff0000",
               "text-align": "center"
             }
           },
